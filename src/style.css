@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+body {
+  background-color: #0A0D0B;
+  color: #F1F5F9;
+  -webkit-font-smoothing: antialiased;
+}
